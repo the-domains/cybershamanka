@@ -1,0 +1,28 @@
+name: cybershamanka
+favicon: null
+layout_spectrum: 0.6079610935412347
+typography_spectrum: 0.4990866610314697
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6602964343037456
+  lightness: 0.23053994518704712
+  saturation: 0.633694947231561
+  rhythmicContrast: 0.35441386536695063
+purpose: []
