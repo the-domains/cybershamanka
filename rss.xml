@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[cybershamanka]]></title>
-        <description><![CDATA[cybershamanka]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[cybershamanka agata_dreams]]></title>
+        <description><![CDATA[cybershamanka agata_dreams]]></description>
+        <link>https://thegrid.ai/cybershamanka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 21:09:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 29 Aug 2016 07:24:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cybershamanka/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6f8164c-4105-432a-9d83-10a8a03bc0b3.jpg">]]></description>
-            <link>undefinedhi-world-its-my-first-post-on-first-site-on-the-grid-my/index.html</link>
+            <link>https://thegrid.ai/cybershamanka/hi-world-its-my-first-post-on-first-site-on-the-grid-my/index.html</link>
             <guid isPermaLink="false">70c88e6f-0a69-451b-9fbd-feb989b45de8</guid>
             <pubDate>Mon, 28 Mar 2016 21:09:55 GMT</pubDate>
         </item>
